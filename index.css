@@ -109,7 +109,13 @@ button{
     top: 11px;
     background-color:rgb(18,219,78);
 } 
-
+#main-footer{
+    text-align: center;
+    color:black;
+    font-size: 10px;
+    margin: 0 auto;
+    padding: 10px 10px;
+}
 /*input::placeholder{
     font-size :1.1em;
     left: 10px;
